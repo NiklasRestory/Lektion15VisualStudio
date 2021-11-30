@@ -1,0 +1,14 @@
+C:\Users\nikla\source\repos\Lektion15Test\bin\Debug\netcoreapp3.1\Lektion15Test.exe
+C:\Users\nikla\source\repos\Lektion15Test\bin\Debug\netcoreapp3.1\Lektion15Test.deps.json
+C:\Users\nikla\source\repos\Lektion15Test\bin\Debug\netcoreapp3.1\Lektion15Test.runtimeconfig.json
+C:\Users\nikla\source\repos\Lektion15Test\bin\Debug\netcoreapp3.1\Lektion15Test.runtimeconfig.dev.json
+C:\Users\nikla\source\repos\Lektion15Test\bin\Debug\netcoreapp3.1\Lektion15Test.dll
+C:\Users\nikla\source\repos\Lektion15Test\bin\Debug\netcoreapp3.1\Lektion15Test.pdb
+C:\Users\nikla\source\repos\Lektion15Test\obj\Debug\netcoreapp3.1\Lektion15Test.csproj.AssemblyReference.cache
+C:\Users\nikla\source\repos\Lektion15Test\obj\Debug\netcoreapp3.1\Lektion15Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikla\source\repos\Lektion15Test\obj\Debug\netcoreapp3.1\Lektion15Test.AssemblyInfoInputs.cache
+C:\Users\nikla\source\repos\Lektion15Test\obj\Debug\netcoreapp3.1\Lektion15Test.AssemblyInfo.cs
+C:\Users\nikla\source\repos\Lektion15Test\obj\Debug\netcoreapp3.1\Lektion15Test.csproj.CoreCompileInputs.cache
+C:\Users\nikla\source\repos\Lektion15Test\obj\Debug\netcoreapp3.1\Lektion15Test.dll
+C:\Users\nikla\source\repos\Lektion15Test\obj\Debug\netcoreapp3.1\Lektion15Test.pdb
+C:\Users\nikla\source\repos\Lektion15Test\obj\Debug\netcoreapp3.1\Lektion15Test.genruntimeconfig.cache
